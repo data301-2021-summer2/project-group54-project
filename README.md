@@ -1,6 +1,6 @@
 # Group 54 - {Short snappy Title of your project}
 
-Comparing todays NHL players to early 2000's players
+Comparing todays NHL players to early 2000's players in terms of points (goals and assists)
 
 ## Milestones
 
