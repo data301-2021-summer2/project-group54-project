@@ -21,3 +21,7 @@ My dataset was collected from the NHL and HockeyReference and contains every NHL
 https://www.hockey-reference.com/
 https://www.kaggle.com/xavya77/nhl04to18?select=NHL.csv
 http://www.nhl.com/stats/
+
+## Video Presentation Link
+
+[Click here](https://vimeo.com/586920608)
